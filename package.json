@@ -4,7 +4,7 @@
   "description": "A simple WhatsApp chatbot",
   "main": "index.js",
   "scripts": {
-    "start": "node openwa.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
